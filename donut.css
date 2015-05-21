@@ -1,0 +1,30 @@
+body {
+  background-color: #28527F;
+
+}
+h1 {
+  color: #50A4FF;
+  font-size: 32pt;
+  margin: auto;
+  text-align: center;
+}
+h3 {
+  font-size: 26pt;
+  text-align: center;
+}
+table {
+  border: 5px solid #4E667F;
+  background-color: #50A4FF;
+  font-size: 26pt;
+  color: #99CAFF;
+  margin: auto;
+}
+td {
+  border: 2px solid black;
+}
+p {
+  font-size: 20pt;
+  color: #50A4FF;
+  text-align: center;
+}
+
